@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TODO APP</string>
+    <string name="todo">Todo</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="empty_text_todolist">List Todo is Empty. \nAdd new Todo using + Button below.</string>
+    <string name="title_activity_maps">Your Location</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="location">Location</string>
+</resources>
